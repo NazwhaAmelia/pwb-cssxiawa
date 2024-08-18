@@ -1,0 +1,59 @@
+header {
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+
+h1{
+    text-align: center;
+    text-decoration: none;
+}
+
+body {background-image: url(/Public/img/pattern.jpg);}
+
+
+nav ul { 
+    display: flex;
+    gap: 1rem;}
+
+
+section {
+background: white;
+margin: 50px 260px 10px;
+padding: 24;}
+
+
+article { 
+    margin: 10px;
+}
+
+article a {
+    text-decoration: none;
+}
+
+article p{
+        background-color: white; 
+    padding-bottom: 15px;
+    border-bottom: 3px solid black;
+    }
+
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 2px;
+    text-align: center;}
+
+
+
+
+li {
+    text-decoration: none;
+    list-style-type: none;}
+
+a {text-decoration: none;}
+
